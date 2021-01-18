@@ -1,3 +1,5 @@
 # All files we dont want to commit to github publicly.
 
 node_modules
+down.html
+images
