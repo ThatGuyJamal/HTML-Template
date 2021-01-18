@@ -8,7 +8,11 @@ Do give others a good/basic stgarting point on website building.
 
 # How to run on local host:?
 
-There are many ways you can setup the html/css website. I used vscode to build it and the extrention live server. But all you need is to open a browner link of the `index.html` file. When this is done you can view the html in your brower. If you want to learn how to host it online then google it as this can only run locally.
+Way One - Google it...
+
+What I did:
+
+I used a [vscode extention](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) to run the server as a live html file from the browser. This should work, if your not using vscode then just fine a way to run it on your setup. When you install liveserver you should see. A `Go Live` icon on the bottom of the vscode bar. Click it when your selected on the index.html file. Boom your done.
 
 # Rights
 
