@@ -25,3 +25,7 @@ Build date: 17/1/21
 # Discord Server Link
 
 https://discord.gg/NbqBQbaejS
+
+# Website Link
+
+If you wish to see the website in real time then [click me](https://thatguyjamal.github.io/Basic-HTML-Template/). From now on only the dev bransh will be pushed with new updates but they are still public.
