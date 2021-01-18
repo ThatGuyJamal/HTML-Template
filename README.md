@@ -11,3 +11,8 @@ If anyone build off my project feel free to use it any (legal) way you like. No 
 ```
 
 Build date: 17/1/21
+
+#Discord Server Link
+
+`mobile`: https://discord.gg/NbqBQbaejS
+`PC`: `https://discord.gg/NbqBQbaejS`
