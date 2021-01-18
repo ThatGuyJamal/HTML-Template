@@ -18,7 +18,6 @@ You are free to do as you wish with this code in any legal way.
 
 Build date: 17/1/21
 
-#Discord Server Link
+# Discord Server Link
 
-`mobile`: https://discord.gg/NbqBQbaejS
-`PC:` `https://discord.gg/NbqBQbaejS`
+https://discord.gg/NbqBQbaejS
